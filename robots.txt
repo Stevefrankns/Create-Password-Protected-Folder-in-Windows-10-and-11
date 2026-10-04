@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stevefrankns.github.io/Create-Password-Protected-Folder-in-Windows-10-and-11/sitemap.xml
